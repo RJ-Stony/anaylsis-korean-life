@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Feb 13 12:40:40 2025
-
-@author: Roh Jun Seok
-
 주제(자유) 하나 잡고
 하위 목표는 3개 이상 잡고,
 전체 주제에 대한 결론 도출

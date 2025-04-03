@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Feb 13 12:13:51 2025
-
-@author: Roh Jun Seok
-
 인터랙티브 시각화: html 파일로 저장 후 web에서 실행
 """
 
