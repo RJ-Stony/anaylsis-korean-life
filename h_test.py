@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Feb 13 10:36:39 2025
-
-@author: Roh Jun Seok
-
 통계 분석 기법을 이용한 가설 검정
 """
 
